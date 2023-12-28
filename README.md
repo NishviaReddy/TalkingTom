@@ -1,4 +1,6 @@
 # TalkingTom
 repetition of voice
-"C:\Users\nishv\OneDrive\Desktop\talkingtom.mp4"
+
+
+https://github.com/NishviaReddy/TalkingTom/assets/155054858/ba4886f8-45e3-47f8-b7c7-7bb3356919d3
 
